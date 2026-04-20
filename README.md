@@ -1,5 +1,5 @@
 # terraform-best-practices
-
+```
 terraform-best-practices/
 ├── modules/                # 放置可重用的元件
 │   └── network/
@@ -12,3 +12,4 @@ terraform-best-practices/
 │       ├── providers.tf    # 定義 LocalStack 連線
 │       └── terraform.tfvars # 環境專屬變數
 └── .gitignore              # 排除敏感檔案 (如 .tfstate)
+```
